@@ -1,37 +1,9 @@
-## Welcome to GitHub Pages
+## Welcome to Code Journey
 
-You can use the [editor on GitHub](https://github.com/cavewoman/code-journey/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+I am a full stack developer who started my journey much like you. I majored in Mathematics at Berry College and had little formal training in Computer Science. But the small taste of coding I did have drove me to pursue the career in development.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Upon graduating I gathered several online resources and created a daily plan to acheive my goal. I made it my job for 2 months to learn programming. I got up at 8am and worked until 5pm (with a lunch break of course) on the plan I had laid out before me. And sure enough I was able to get through all of the tutorials I had set out to.
 
-### Markdown
+To be clear I was not a full stack developer by any means after completing my training, but I had gained valuable learning tools as well as a better understanding of how things worked. I set out to find a job and was successful in finding one!
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/cavewoman/code-journey/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+My hope with this site is to be able to help you do the same! I completely am aware that not everyone has 8 hours a day to put into your journey. I was fortunate enough to be living with some family friends who put me up for free and I maintained a part time job in the evening for the rest of my expenses. So I will be providing several options so you can learn at a pace that suits your life!
