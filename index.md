@@ -25,3 +25,11 @@ TLDR: Stay open minded.
 I know this may sounds like common sense but I found making the learning part of my development journey a routine really helped me to achieve my goal. Figure out when the best time for you to put in time to learn is. This may be early in the morning before you fully start your day or before bed. Give yourself time to figure this out. If you set out for one routine and find it not really working don't fret. You are not a failure. Just reevaluate and try a different time.
 
 I reccomend when you do find the right time to protect it. Pretend like it is your job and you must do it without distraction. This will be tough to do at first but it will get easier.
+
+## About your trail guide
+
+My name is Anna Sherman. I have been a professional developer since 2013. My home developer community can be found in Chattanooga, Tennessee.
+
+I am an organizer for [CodeXX](https://www.meetup.com/CodeXX/) and [ChaDev](https://www.meetup.com/chadevs/), two developer meetups in Chattanooga. I help out with [Carbon Five Hacknights](https://www.meetup.com/Carbon-Five-Chattanooga-Hack-Nights/) as well as [ChaJS](https://www.meetup.com/ChattanoogaJS/) and am the Secretary for the Board of Directors for [ChaTech](https://chatechcouncil.org/).
+
+I have a passion for helping learners find their way in their developer journey. I also enjoy painting along with Bob Ross and hanging out with my husband and dog.
