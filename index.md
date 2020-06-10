@@ -30,6 +30,6 @@ I recommend that when you do find the right time-  protect it. Pretend like it i
 
 My name is Anna Sherman. I have been a professional developer since 2013. My home developer community can be found in Chattanooga, Tennessee.
 
-I am an organizer for [CodeXX](https://www.meetup.com/CodeXX/) and [ChaDev](https://www.meetup.com/chadevs/), two developer meetups in Chattanooga. I help out with [Carbon Five Hacknights](https://www.meetup.com/Carbon-Five-Chattanooga-Hack-Nights/) as well as [ChaJS](https://www.meetup.com/ChattanoogaJS/) and am the Secretary for the Board of Directors for [ChaTech](https://chatechcouncil.org/).
+I am an organizer for [include(Chattanooga)](https://www.meetup.com/includechattanooga/) and [ChaDev](https://www.meetup.com/chadevs/), two developer meetups in Chattanooga. I help out with [Carbon Five Hacknights](https://www.meetup.com/Carbon-Five-Chattanooga-Hack-Nights/) as well as [ChaJS](https://www.meetup.com/ChattanoogaJS/) and am the Vice Chair for the Board of Directors for [ChaTech](https://chatechcouncil.org/).
 
 I have a passion for helping learners find their way in their developer journey. I also enjoy painting along with Bob Ross and hanging out with my husband and dog.
